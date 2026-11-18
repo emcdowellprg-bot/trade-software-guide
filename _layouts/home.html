@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article>
+  <h1>{{ page.title }}</h1>
+  {{ content }}
+  <h2>Guides</h2>
+  <ul class="guide-list">
+    {% assign guides = site.pages | where_exp: "item", "item.trade" %}
+    {% assign guides = guides | sort: "title" %}
+    {% for guide in guides %}
+    <li>
+      <p class="kicker">{{ guide.trade }}</p>
+      <h3><a href="{{ guide.url | relative_url }}">{{ guide.title }}</a></h3>
+      <p>{{ guide.description }}</p>
+      <p class="meta">Updated {{ guide.last_updated }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+</article>
