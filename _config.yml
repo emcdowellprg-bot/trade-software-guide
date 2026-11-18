@@ -1,0 +1,29 @@
+title: Best Software for Trades
+description: Independent guides to software for small service businesses.
+url: "https://emcdowellprg-bot.github.io"
+baseurl: "/trade-software-guide"
+lang: en
+timezone: Etc/UTC
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - docs
+  - vendor
+  - .gitignore
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: "guides"
+    values:
+      layout: guide
