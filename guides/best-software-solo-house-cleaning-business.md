@@ -12,7 +12,7 @@ A solo house cleaner is usually buying software for a week of houses that alread
 
 Use this if you are the owner-operator of a residential house cleaning or maid service. You book the houses, you clean them, and you collect. You do not have employees yet. A later cleaner who needs a login is a different price, and that price is in the pricing section.
 
-A crew, a commercial janitorial account with a night supervisor, and Housecall Pro's HVAC, plumbing, or electrical package are out of scope. Cleaning is on Housecall Pro's standard plans. The help center's industry-packages collection lists HVAC, electrical, and plumbing, and does not list cleaning. The pricing page fetched for this guide is headed for an "Other" business, and the pricing FAQ names cleaning alongside the trades.
+This page stays with one person. A crew of up to about ten, and the choice between Jobber and Housecall Pro for that crew, is the [Jobber vs Housecall Pro guide for residential cleaning]({{ '/guides/jobber-vs-housecall-pro-residential-cleaning/' | relative_url }}). A commercial janitorial account with a night supervisor, and Housecall Pro's HVAC, plumbing, or electrical package, are out of scope. Cleaning is on Housecall Pro's standard plans. The help center's industry-packages collection lists HVAC, electrical, and plumbing, and does not list cleaning. The pricing page fetched for this guide is headed for an "Other" business, and the pricing FAQ names cleaning alongside the trades.
 
 ## Quick answer
 
